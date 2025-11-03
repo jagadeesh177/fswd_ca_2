@@ -4,7 +4,7 @@ function Footer() {
 
   return (
     <footer>
-        <h1>Contact us</h1>
+        <h2>Contact us</h2>
         <p><strong>Email:</strong>travelblog@gmail.com</p>
         <p><strong>Mobile No: +91 6301418455</strong></p>
     </footer>
